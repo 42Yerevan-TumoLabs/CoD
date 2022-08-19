@@ -3,7 +3,7 @@
 |  Nº  | Project | [shovsepy](https://profile.intra.42.fr/users/shovsepy) | [vasatrya](https://profile.intra.42.fr/users/vasatrya) | [mmartiro](https://profile.intra.42.fr/users/mmartiro) | [arakhurs](https://profile.intra.42.fr/users/arakhurs) | [tyenokya](https://profile.intra.42.fr/users/tyenokya) | [stadevos](https://profile.intra.42.fr/users/stadevos) | [vrsargsy](https://profile.intra.42.fr/users/vrsargsy) | [rkochary](https://profile.intra.42.fr/users/rkochary) | [nhayrape](https://profile.intra.42.fr/users/nhayrape) | [manvkhac](https://profile.intra.42.fr/users/manvkhac) | [mharutyu](https://profile.intra.42.fr/users/mharutyu) | [aminasya](https://profile.intra.42.fr/users/aminasya) |
 | :--: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 👔 | Roles |  | 
-| 🚦 | EX 02 | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❌ |
+| 🚦 | EX 02 | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❌ | ❌ |
 | 1 | push_swap | ✅ | ✅ | ✅ | 🆚 | ✅ | ✅ | 🆚 | 🆚 | 🆚 | 🆚 | 🆚 | 🌐 |
 | 2.1 | pipex | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | 🆚 | 🆚 | 🆚 | 🆚 | 🌐 |
 | 2.2 | minitalk | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | 🆚 | 🆚 | 🆚 | 🆚 | 🌐 |
