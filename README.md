@@ -46,7 +46,7 @@
 | Activity | Data | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 01 | 02 | 03 | 04 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting | Logo, Name, Color |  |  |  |  | Duty for next week |  |  |  | Opening 🎉 |  |  |  |
-| 📝 | Evaluations | stadevos 1️⃣ | stadevos 1️⃣ manvkhac 1️⃣ | arakhurs 1️⃣ | arakhurs 2️⃣ manvkhac 1️⃣ | stadevos 1️⃣ |  |  | arakhurs 1️⃣ |  stadevos 2️⃣ |  |  |  |  |
+| 📝 | Evaluations | stadevos 1️⃣ | stadevos 1️⃣ manvkhac 1️⃣ | arakhurs 1️⃣ | arakhurs 2️⃣ manvkhac 1️⃣ | stadevos 1️⃣ |  |  | arakhurs 1️⃣ |  stadevos 2️⃣ |  |  | stadevos 1️⃣ | vasatrya 1️⃣ |
 | 🌐 | Projects | vasatrya 2️⃣ |  |  |  |  |  |  | shovsepy 1️⃣ |  |  |  |  |  |  |
 | 🧠 | COD exp. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
