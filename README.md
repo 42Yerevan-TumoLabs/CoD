@@ -47,7 +47,8 @@
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting | Logo, Name, Color |  |  |  |  | Duty for next week |  |  |  | Opening 🎉 |  |  |  |
 | 📝 | Evaluations | stadevos 1️⃣ | stadevos 1️⃣ manvkhac 1️⃣ | arakhurs 1️⃣ | arakhurs 2️⃣ manvkhac 1️⃣ | stadevos 1️⃣ |  |  | arakhurs 1️⃣ |  stadevos 2️⃣ |  |  |  | stadevos 1️⃣ | vasatrya 1️⃣ |
-| 🌐 | Projects | vasatrya 2️⃣ |  |  |  |  |  |  | shovsepy 1️⃣ |  |  |  |  |  |  |
+| 🌐 | Pj/Ex Success | vasatrya 2️⃣ |  |  |  |  |  |  | shovsepy 1️⃣ |  |  |  |  |  |  |
+| 🌐 | Pj/Ex Fails |  |  |  |  | mharutyu Ex02 aminasya Ex02 |  |  | shovsepy 1️⃣ | arakhurs 1️⃣ |  |  | mharutyu Ex02 aminasya Ex02 | arakhurs 1️⃣ | vasatrya 1️⃣ |
 | 🧠 | COD exp. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 
