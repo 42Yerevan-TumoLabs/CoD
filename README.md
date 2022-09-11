@@ -59,4 +59,4 @@
 | 📝 | Evaluations | stadevos 1️⃣ |  |  |   |  |  |  |  |   |  |  |  |  |  |
 | 🌐 ✅ | Pj/Ex Success |  |  |  | arakhurs 1️⃣ mharutyu Ex02 arakhurs EX03 |  |  |  |  |  |  |  |  |  |  |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  | aminasya Ex02 mmartiro EX04 |  |  |  |  |  |  |  |  |  |
-| 🧠 | COD exp. |  |  |  |  |  |  |  |  |  | MINISHELL |  |  |  |  |
+| 🧠 | COD exp. |  |  |  |  |  |  | Duty for next week |  |  | MINISHELL |  |  |  |  |
