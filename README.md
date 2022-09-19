@@ -23,8 +23,8 @@
 | 10 | 0 | CPP M 02 | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 11 | 0 | CPP M 03 | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 12 | 0 | CPP M 04 | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
-| 13 | 0 | CPP M 05 | ✅ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
-| 14 | 0 | CPP M 06 | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
+| 13 | 0 | CPP M 05 | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
+| 14 | 0 | CPP M 06 | ✅ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 15 | 0 | CPP M 07 | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 16 | 336 | CPP M 08 | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 🚦 | 1842 | EX 05 | ❇️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -55,7 +55,7 @@
 | Activity | Data | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 📝 | Evaluations | stadevos 1️⃣ |  |  | vasatrya 1️⃣ | tyenokya 2️⃣ vasatrya 1️⃣ | stadevos 3️⃣ vasatrya 2️⃣ | vasatrya 1️⃣ | vasatrya 1️⃣ | stadevos 1️⃣ rkochary 1️⃣ | vasatrya 2️⃣ | rkochary 2️⃣ manvkhac 1️⃣ | rkochary 1️⃣ |  |  |
-| 🌐 ✅ | Pj/Ex Success |  |  |  | arakhurs 1️⃣ vasatrya 1️⃣ mharutyu Ex02 arakhurs EX03 | vasatrya 1️⃣ | vasatrya 1️⃣ |  |  | mharutyu 1️⃣ vasatrya 1️⃣ | stadevos 1️⃣ | rkochary 1️⃣ manvkhac 1️⃣ |  |  |  |
+| 📝 | Evaluations | stadevos 1️⃣ |  |  | vasatrya 1️⃣ | tyenokya 2️⃣ vasatrya 1️⃣ | stadevos 3️⃣ vasatrya 2️⃣ | vasatrya 1️⃣ | vasatrya 1️⃣ | stadevos 1️⃣ rkochary 1️⃣ | vasatrya 2️⃣ | rkochary 2️⃣ manvkhac 1️⃣ | rkochary 1️⃣ |  | vasatrya 1️⃣ |
+| 🌐 ✅ | Pj/Ex Success |  |  |  | arakhurs 1️⃣ vasatrya 1️⃣ mharutyu Ex02 arakhurs EX03 | vasatrya 1️⃣ | vasatrya 1️⃣ |  |  | mharutyu 1️⃣ vasatrya 1️⃣ | stadevos 1️⃣ | rkochary 1️⃣ manvkhac 1️⃣ |  |  | vasatrya 1️⃣ |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  | aminasya Ex02 mmartiro EX04 |  |  |  |  |  |  |  |  |  |
 | 🧠 | COD exp. |  |  |  |  |  |  | Duty for next week |  |  | MINISHELL |  |  |  |  |
