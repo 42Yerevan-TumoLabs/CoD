@@ -3,7 +3,7 @@
 |  Nº  | Points | Project | [shovsepy](https://profile.intra.42.fr/users/shovsepy) | [vasatrya](https://profile.intra.42.fr/users/vasatrya) | [mmartiro](https://profile.intra.42.fr/users/mmartiro) | [arakhurs](https://profile.intra.42.fr/users/arakhurs) | [stadevos](https://profile.intra.42.fr/users/stadevos) | [tyenokya](https://profile.intra.42.fr/users/tyenokya) | [vrsargsy](https://profile.intra.42.fr/users/vrsargsy) | [rkochary](https://profile.intra.42.fr/users/rkochary) | [nhayrape](https://profile.intra.42.fr/users/nhayrape) | [manvkhac](https://profile.intra.42.fr/users/manvkhac) | [mharutyu](https://profile.intra.42.fr/users/mharutyu) | [aminasya](https://profile.intra.42.fr/users/aminasya) |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | ⏰ | For | Hours per week | 32 | 23 | 33 | 39 | 22 | 17 | 22 | 22 | 20 | 16 | | |
-| 👔 | House | Roles | 🗣Code Explainer | 🗣Code Explainer | ☎️ Communicator | 👀 Evaluator | ⚜️ Leader | 📣 Reporter | 😃 | 😃 | 😃 | 😃 | 😃 | ❌ |
+| 👔 | House | Roles | 🗣Code Explainer | 🗣Code Explainer | ☎️ Communicator | 👀 Evaluator | ⚜️ Leader | 😃 | 😃 | 😃 | 😃 | 😃 | 📣 Reporter | ❌ |
 | 🚦 | 0 | EX 02 | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❌ |
 | 1 | 292 | push_swap | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🆚 | 🆚 | 🆚 | 🆚 | 🌐 |
 | 2.1 | 268 | pipex | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | 🆚 | 🆚 | 🆚 | 🌐 |
