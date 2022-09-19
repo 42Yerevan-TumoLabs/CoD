@@ -56,6 +56,6 @@
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 📝 | Evaluations | stadevos 1️⃣ |  |  | vasatrya 1️⃣ | tyenokya 2️⃣ vasatrya 1️⃣ | stadevos 3️⃣ vasatrya 2️⃣ | vasatrya 1️⃣ | vasatrya 1️⃣ | stadevos 1️⃣ rkochary 1️⃣ | vasatrya 2️⃣ | rkochary 2️⃣ manvkhac 1️⃣ | rkochary 1️⃣ | stadevos 1️⃣ | vasatrya 1️⃣ |
-| 🌐 ✅ | Pj/Ex Success |  |  |  | arakhurs 1️⃣ vasatrya 1️⃣ mharutyu Ex02 arakhurs EX03 | vasatrya 1️⃣ | vasatrya 1️⃣ |  |  | mharutyu 1️⃣ vasatrya 1️⃣ | stadevos 1️⃣ | rkochary 1️⃣ manvkhac 1️⃣ |  | stadevos 1️⃣ | vasatrya 1️⃣ |
+| 🌐 ✅ | Pj/Ex Success |  |  |  | arakhurs 1️⃣ vasatrya 1️⃣ mharutyu Ex02 arakhurs EX03 | vasatrya 1️⃣ | vasatrya 1️⃣ |  |  | mharutyu 1️⃣ vasatrya 1️⃣ | stadevos 1️⃣ | rkochary 1️⃣ manvkhac 1️⃣ |  | stadevos 1️⃣ vrsargsy 1️⃣ | vasatrya 1️⃣ |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  | aminasya Ex02 mmartiro EX04 |  |  |  |  |  |  |  |  |  |
 | 🧠 | COD exp. |  |  |  |  |  |  | Duty for next week |  |  | MINISHELL |  |  |  |  |
