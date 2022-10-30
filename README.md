@@ -82,6 +82,6 @@
 | Activity | Data | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  | Duty for next week |  |  |  |  |  |  |  |
-| 📝 | Evaluations |  |  | manvkhac 1️⃣ |  |  |  | stadevos 1️⃣ vrsargsy 1️⃣ manvkhac 1️⃣ |  |  |  |  |  |  |  |
+| 📝 | Evaluations |  |  | manvkhac 1️⃣ |  |  |  | stadevos 1️⃣ vrsargsy 1️⃣ manvkhac 1️⃣ | arakhurs 1️⃣ |  |  |  |  |  | arakhurs 1️⃣ |
 | 🌐 ✅ | Pj/Ex Success |  |  |  |  |  |  | stadevos 1️⃣ nhayrape 1️⃣ |  |  |  |  | vasatrya EX 04 |  |  |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  | vasatrya EX 04 |  |  |  |  |  |  |  |  |
